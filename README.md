@@ -25,7 +25,7 @@
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,blender,github" />
 </p>
 
----
+<!---
 
 <h2 align="center"><strong>📫 Connect with Me</strong></h2>
 
@@ -41,7 +41,7 @@
   </a>
 </p>
 
----
+--->
 
 <!---
 sairam294/sairam294 is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
