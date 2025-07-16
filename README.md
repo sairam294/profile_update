@@ -13,15 +13,37 @@
 <h3><strong>Frameworks & Libraries</strong></h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,angular,flutter,npm,pytorch,sklearn" />
-  <img src="https://img.shields.io/badge/Qiskit-Quantum-purple?style=for-the-badge&logo=qiskit&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/NumPy%20%7C%20Pandas-Python-blue?style=for-the-badge" height="25"/>
 </p>
 
 <h3><strong>Developer Tools</strong></h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,vscode,idea,eclipse,postman,supabase,anaconda,figma,blender" />
-  <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter&logoColor=white" height="25"/>
 </p>
 
 <h3><strong>Databases & Platforms</strong></h3>
-<p a
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,github" />
+</p>
+
+---
+
+<h2 align="center"><strong>📫 Connect with Me</strong></h2>
+
+<p align="center">
+  <a href="mailto:s.r.02.09.2004@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/sairam-ss/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/sairam294">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+---
+
+<!---
+sairam294/sairam294 is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
