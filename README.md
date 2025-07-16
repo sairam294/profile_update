@@ -17,12 +17,12 @@
 
 <h3><strong>Developer Tools</strong></h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,vscode,idea,eclipse,postman,supabase,anaconda,figma,blender" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,idea,eclipse,postman,supabase,anaconda,figma" />
 </p>
 
 <h3><strong>Databases & Platforms</strong></h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,github" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,blender,github" />
 </p>
 
 ---
